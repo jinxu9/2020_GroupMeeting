@@ -25,7 +25,7 @@ We will vote for the best presentations with the following criteria.
    * The value of the paper itself( novelty, significants, interests and etc.)
    * Well prepared( slides, speaking, timing) 
    * Clearly explain the story 
-   * Deep discussion 
+   * Deep discussion lead by the presenter
 
 
   
