@@ -7,7 +7,8 @@
 
 ## 2020-02-20, 3:00pm
 * Speaker: Baizhen 
-* Title: 
+* Title: PINK1 Inhibits Local Protein Synthesis to Limit Transmission of Deleterious Mitochondrial DNA Mutations. 
+  Zhang Y, Wang Z, Liu Y, et al. Molecular Cell. 2019, 73(6): 1127-1137.
 
 ## 2020-02-27, 3:00pm
 * Speaker: Yiting 
