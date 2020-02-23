@@ -12,7 +12,7 @@
 
 ## 2020-02-27, 3:00pm
 * Speaker: Yiting 
-* Title: 
+* Title: Structured spike series specify gene expression patterns for olfactory circuit formation. Nakashima, A. et al. 2019. Science 365, eaaw5030.
 
 ## 2020-03-05, 3:00pm
 * Speaker: Jie 
