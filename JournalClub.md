@@ -16,7 +16,7 @@
 
 ## 2020-03-05, 3:00pm
 * Speaker: Jie 
-* Title: 
+* Title: Soldatov, R. et al. Spatiotemporal structure of cell fate decisions in murine neural crest. Science (New York, N.Y.) 364 (2019).
 
 ## 2020-03-12, 3:00pm
 * Speaker: Peiyu 
