@@ -20,7 +20,8 @@
 
 ## 2020-03-12, 3:00pm
 * Speaker: Peiyu 
-* Title: 
+* Title:  A transcriptomic atlas of mammalian olfactory mucosae reveals an evolutionary influence on food odor detection in humans.
+  Saraiva, L. R. et al. Sci. Adv. 5, eaax0396 (2019).
 
 ## 2020-03-19, 3:00pm
 * Speaker: Yage 
