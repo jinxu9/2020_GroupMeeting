@@ -25,7 +25,7 @@
 
 ## 2020-03-19, 3:00pm
 * Speaker: Yage 
-* Title: 
+* Title: Weinreb C, Rodriguez-Fraticelli A, Camargo FD, Klein AM. Lineage tracing on transcriptional landscapes links state to fate during differentiation. Science. 2020;
 
 ## 2020-03-26, 3:00pm
 * Speaker: Jiawen 
