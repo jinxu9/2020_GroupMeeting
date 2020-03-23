@@ -30,7 +30,7 @@
 
 ## 2020-03-26, 3:00pm
 * Speaker: Jiawen 
-* Title: 
+* Title: Berman, B.P., Evgrafov, O.V., Knowles, J.A., Farnham, P.J., 2018. Using 3D epigenomic maps of primary olfactory neuronal cells from living individuals to understand gene regulation. Sci Adv 4, eaav8550.
 
 ## 2020-04-02, 3:00pm
 * Speaker: Zihao 
