@@ -40,7 +40,7 @@
 
 ## 2020-03-26,2:00 pm 
 * Speaker： Yiting 
-* Title: 
+* Title: Joint sequencing of chromatin accessibility and olfactory receptor gene expression in single cells
 
 ## 2020-04-02,2:00 pm 
 * Speaker： Rui
