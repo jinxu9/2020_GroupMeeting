@@ -34,7 +34,7 @@
 
 ## 2020-04-02, 3:00pm
 * Speaker: Zihao 
-* Title: 
+* Title: Dynamic Transcriptional Responses to Injury of Regenerative and Non-regenerative Cardiomyocytes Revealed by Single-Nucleus RNA Sequencing. Cui, Miao et al. 2020. Developmental Cell.
 
 ## 2020-04-09, 3:00pm
 * Speaker: Siqi 
