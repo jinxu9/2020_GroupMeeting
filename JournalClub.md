@@ -39,3 +39,37 @@
 ## 2020-04-09, 3:00pm
 * Speaker: Siqi 
 * Title: 
+
+# 2020-04-23,3:00pm
+* Speaker: Rui Li
+
+# 2020-04-30,3:00pm
+Speaker: Baizhen 
+
+# 2020-05-07,3:00pm
+* Speaker: Yiting
+
+# 2020-05-14,3:00pm
+* Speaker: Bairu
+
+# 2020-05-21,3:00pm
+* Speaker: Jie Liu
+
+# 2020-05-23,3:00pm
+* Speaker: Peiyu 
+
+# 2020-06-04,3:00pm
+* Speaker: Yage 
+
+# 2020-06-11,3:00pm
+Speaker: Jiawen 
+
+# 2020-06-18,3:00pm
+* Speaker: Zihao 
+
+# 2020-06-25,3:00pm
+* Speaker: Siqi 
+
+
+
+
