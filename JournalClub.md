@@ -38,7 +38,7 @@
 
 ## 2020-04-09, 3:00pm
 * Speaker: Siqi 
-* Title: 
+* Title: Systematic analysis of chromatin interactions at disease associated loci links novel candidate genes to inflammatory bowel disease. Genome Biol. 2016 Nov 30;17(1):247.
 
 ## 2020-04-23,3:00pm
 * Speaker: Rui Li
