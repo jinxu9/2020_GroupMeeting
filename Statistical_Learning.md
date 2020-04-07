@@ -94,7 +94,7 @@
 * Lab: K-means Clustering (6:31)
 * Lab: Hierarchical Clustering (6:33)
 
-# Interviews (2020-0723)
+## Interviews (2020-0723)
 * Interview with John Chambers (10:20)
 * Interview with Bradley Efron (12:08)
 * Interview with Jerome Friedman (10:29)
