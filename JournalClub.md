@@ -44,7 +44,7 @@
 * Speaker: Rui Li
 
 # 2020-04-30,3:00pm
-Speaker: Baizhen 
+* Speaker: Baizhen 
 
 # 2020-05-07,3:00pm
 * Speaker: Yiting
@@ -62,7 +62,7 @@ Speaker: Baizhen
 * Speaker: Yage 
 
 # 2020-06-11,3:00pm
-Speaker: Jiawen 
+* Speaker: Jiawen 
 
 # 2020-06-18,3:00pm
 * Speaker: Zihao 
