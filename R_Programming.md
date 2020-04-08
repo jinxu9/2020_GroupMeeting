@@ -5,7 +5,7 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 
 # Outline and Schedual :
 ## Date: 2020-04-23, 2:00pm 
-* Speaker: 
+* Speaker: Siqi
 * History and Overview of R 
 * Getting Started with R
 * R Nuts and Bolts
