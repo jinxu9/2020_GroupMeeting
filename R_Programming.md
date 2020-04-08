@@ -25,26 +25,44 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Managing Data Frames
 * Control Stuctures
 
-## Data 2020-05-14, 2:00pm
+## Date 2020-05-14, 2:00pm
 * Speaker:Jiawen
 * Functions
 * Scopping Rules for R 
 * Loop Functions
 
-## Data 2020-05-21, 2:00pm
+## Date 2020-05-21, 2:00pm
 * Speaker: Yage
 * Regular Expressions
 * Debugging 
 * Profilling R code 
 
-## Data 2020-05-28  2:00pm
+## Date 2020-05-28  2:00pm
 * Speaker: Yiting
 * Simulation
 * Data Analysis Case Study 
 * Parallel Computation 
 
-## Data 2020-06-04 2:00pm 
+#  Computational genomics with R 
+
+* https://compgenomr.github.io/book/
+
+## Date 2020-06-04 2:00pm 
 * Speaker:ChenZihao
-* R for genomics studies 
+* Statistics for Genomics
+* Exploratory Data Analysis with Unsupervised methods
+
+## Date 2020-06-11 2:00pm
+* Speaker： 
+* Predictive Modeling with Supervised methods
+
+# Date 2020-06-18 2:00pm
+* Speaker:
+* RNA-seq analysis 
+
+# Date 2020-06-25 2:00pm 
+* Speaker: 
+* ChIP-seq analysis 
+
 
 
