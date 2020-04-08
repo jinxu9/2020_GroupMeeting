@@ -57,7 +57,7 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Chapter 5: Predictive Modeling with Supervised methods
 
 ## Date 2020-06-18 2:00pm
-* Speaker:
+* Speaker: Peiyu
 * Chapter 8: RNA-seq analysis 
 * 
 ## Date 2020-06-25 2:00pm 
