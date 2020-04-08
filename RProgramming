@@ -4,13 +4,13 @@
 https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 
 # Outline and Schedual :
-## Date: 2020-04-23: 2:00pm 
+## Date: 2020-04-23, 2:00pm 
 * Speaker: 
 * History and Overview of R 
 * Getting Started with R
 * R Nuts and Bolts
 
-## Date:2020-04-30: 2:00pm 
+## Date:2020-04-30, 2:00pm 
 * Speaker: 
 * Getting Data In and Out of R 
 * Using the readr Package 
@@ -18,28 +18,33 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Interfaces to the Outsides Worlds
 * Subsetting R Objects
 
-## Date: 2020-05-07
+## Date: 2020-05-07, 2:00pm
 * Speaker: 
 * Vectorized Operations
 * Dates and Times
 * Managing Data Frames
 * Control Stuctures
 
-## Data 2020-05-14
+## Data 2020-05-14, 2:00pm
 * Speaker:
 * Functions
 * Scopping Rules for R 
 * Loop Functions
 
-# Data 2020-05-21
+# Data 2020-05-21, 2:00pm
 * Speaker: 
 * Regular Expressions
 * Debugging 
 * Profilling R code 
 
-# Data 2020-05-28 
+# Data 2020-05-28  2:00pm
 * Speaker: 
 * Simulation
 * Data Analysis Case Study 
 * Parallel Computation 
+
+# Data 2020-06-04 2:00pm 
+* Speaker:
+* R for genomics studies 
+
 
