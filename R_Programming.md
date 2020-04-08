@@ -19,7 +19,7 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Subsetting R Objects
 
 ## Date: 2020-05-07, 2:00pm
-* Speaker: 
+* Speaker: Baizhen
 * Vectorized Operations
 * Dates and Times
 * Managing Data Frames
@@ -42,10 +42,6 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Simulation
 * Data Analysis Case Study 
 * Parallel Computation 
-
-# Computational Genomics with R 
-
-https://compgenomr.github.io/book/how-to-summarize-collection-of-data-points-the-idea-behind-statistical-distributions.html
 
 ## Data 2020-06-04 2:00pm 
 * Speaker:ChenZihao
