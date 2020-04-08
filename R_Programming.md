@@ -43,8 +43,17 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Data Analysis Case Study 
 * Parallel Computation 
 
+
+#  Computational Genomics with R 
 ## Data 2020-06-04 2:00pm 
 * Speaker:
-* R for genomics studies 
+
+## Data 2020-06-04 2:00pm 
+* Speaker:
+
+
+## Data 2020-06-04 2:00pm 
+* Speaker:
+
 
 
