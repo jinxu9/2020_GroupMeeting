@@ -43,6 +43,10 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Data Analysis Case Study 
 * Parallel Computation 
 
+# Computational Genomics with R 
+
+https://compgenomr.github.io/book/how-to-summarize-collection-of-data-points-the-idea-behind-statistical-distributions.html
+
 ## Data 2020-06-04 2:00pm 
 * Speaker:ChenZihao
 * R for genomics studies 
