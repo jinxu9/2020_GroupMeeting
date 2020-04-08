@@ -53,7 +53,7 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Chapter 4: Exploratory Data Analysis with Unsupervised methods
 
 ## Date 2020-06-11 2:00pm
-* Speaker： 
+* Speaker：XuYicong
 * Chapter 5: Predictive Modeling with Supervised methods
 
 ## Date 2020-06-18 2:00pm
