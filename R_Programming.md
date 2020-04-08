@@ -32,7 +32,7 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Loop Functions
 
 ## Data 2020-05-21, 2:00pm
-* Speaker: 
+* Speaker: Yage
 * Regular Expressions
 * Debugging 
 * Profilling R code 
@@ -42,10 +42,6 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Simulation
 * Data Analysis Case Study 
 * Parallel Computation 
-
-
-# Computational genomics with R 
-* https://compgenomr.github.io/book/ 
 
 ## Data 2020-06-04 2:00pm 
 * Speaker:ChenZihao
