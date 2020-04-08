@@ -38,7 +38,7 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Profilling R code 
 
 ## Data 2020-05-28  2:00pm
-* Speaker: 
+* Speaker: Yiting
 * Simulation
 * Data Analysis Case Study 
 * Parallel Computation 
