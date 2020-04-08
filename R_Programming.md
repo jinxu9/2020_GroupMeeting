@@ -32,7 +32,7 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Loop Functions
 
 ## Data 2020-05-21, 2:00pm
-* Speaker: 
+* Speaker: XuYicong
 * Regular Expressions
 * Debugging 
 * Profilling R code 
