@@ -26,7 +26,7 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * Control Stuctures
 
 ## Data 2020-05-14, 2:00pm
-* Speaker:
+* Speaker:Jiawen
 * Functions
 * Scopping Rules for R 
 * Loop Functions
