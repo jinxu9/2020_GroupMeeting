@@ -11,7 +11,7 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 * R Nuts and Bolts
 
 ## Date:2020-04-30, 2:00pm 
-* Speaker: 
+* Speaker: Lirui
 * Getting Data In and Out of R 
 * Using the readr Package 
 * Using Textual and Binary Formate for R 
