@@ -1,68 +1,60 @@
-# R Programming for Data Science 
-* The online book: 
+# Part1:  R Programming for Data Science 
+* Link for ebook: 
 
 https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 
 # Outline and Schedual :
+
 ## Date: 2020-04-23, 2:00pm 
-* Speaker: Siqi
+
+### Speaker: Siqi
 * History and Overview of R 
 * Getting Started with R
 * R Nuts and Bolts
 
-## Date:2020-04-30, 2:00pm 
-* Speaker: Lirui
+###  Speaker: Lirui
 * Getting Data In and Out of R 
 * Using the readr Package 
 * Using Textual and Binary Formate for R 
 * Interfaces to the Outsides Worlds
 * Subsetting R Objects
+## Date:2020-04-30, 2:00pm 
 
-## Date: 2020-05-07, 2:00pm
-* Speaker: Baizhen
+### Speaker: Baizhen
 * Vectorized Operations
 * Dates and Times
 * Managing Data Frames
-* Control Stuctures
 
-## Date 2020-05-14, 2:00pm
-* Speaker:Jiawen
+###  Speaker:Jiawen
+* Control Stuctures
 * Functions
 * Scopping Rules for R 
 * Loop Functions
 
-## Date 2020-05-21, 2:00pm
-* Speaker: Yage
+## Date: 2020-05-07, 2:00pm
+
+### Speaker: Yage
 * Regular Expressions
 * Debugging 
 * Profilling R code 
 
-## Date 2020-05-28  2:00pm
-* Speaker: Yiting
+### Speaker: Yiting
 * Simulation
 * Data Analysis Case Study 
 * Parallel Computation 
 
-#  Computational genomics with R 
 
-* https://compgenomr.github.io/book/
+# Part 2:  Computational genomics with R 
+* link for ebook :  https://compgenomr.github.io/book/
 
-## Date 2020-06-04 2:00pm 
+## Date 2020-05-14, 2:00pm
+
 * Speaker:ChenZihao
 * Chapter 3: Statistics for Genomics
 * Chapter 4: Exploratory Data Analysis with Unsupervised methods
-
-## Date 2020-06-11 2:00pm
-* Speaker： 
 * Chapter 5: Predictive Modeling with Supervised methods
 
-## Date 2020-06-18 2:00pm
+## Date 2020-05-21, 2:00pm
 * Speaker: Peiyu
 * Chapter 8: RNA-seq analysis 
-* 
-## Date 2020-06-25 2:00pm 
-* Speaker: 
 * Chapter 9: ChIP-seq analysis 
-
-
-
