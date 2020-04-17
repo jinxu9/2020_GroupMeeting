@@ -1,35 +1,16 @@
-# Schedule for Xu lab Group Meeting
+# Schedule for Xu lab Group Meeting (2020-04-23 -- 2020-05-21) 
 
-To adapt to the current situation, our group meeting will change as follow:
+## Part1: Journal club 
+ * Presenter should send out the paper and add the title on Github before each Tuesday. 
+ 
+## Part2: R programming :
+  * Read the online book before group meeting 
+  * Presenter will give a brief introducion
+  * Q & A 
+  * Discussion 
 
-One person presents his/her project for 40min.
-
-Another person presents a paper as what we did for the journal club.
-
-Individual discussion(1 on 1 ) for projects will be scheduled separately. 
-
-Please join this repository and edit the title for your project/paper you will present. 
-
-
-# Best Presentation Awards ( ¥1000 for each award) 
-We will vote for the best presentations with the following criteria. 
-
-* Best Project Report:
-   * Well prepared ( slides, speaking, timing)
-   * Logically 
-   * Clearly 
-   * Significants 
-
-
-* Best Paper sharing: 
+# Best Jounral Presentation Awards ( ¥1000 )  
    * The value of the paper itself( novelty, significants, interests and etc.)
    * Well prepared( slides, speaking, timing) 
    * Clearly explain the story 
    * Deep discussion lead by the presenter
-
-
-  
-
-
-
-
