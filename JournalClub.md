@@ -22,7 +22,7 @@
 * Speaker: Peiyu 
 * Title:  A transcriptomic atlas of mammalian olfactory mucosae reveals an evolutionary influence on food odor detection in humans.
   Saraiva, L. R. et al. Sci. Adv. 5, eaax0396 (2019).
-
+  
 ## 2020-03-19, 3:00pm
 * Speaker: Yage 
 * Title:  Lineage tracing on transcriptional landscapes links state to fate during differentiation. 
@@ -40,7 +40,8 @@
 * Speaker: Siqi 
 * Title: Systematic analysis of chromatin interactions at disease associated loci links novel candidate genes to inflammatory bowel disease. Genome Biol. 2016 Nov 30;17(1):247.
 
-## 2020-04-23,2:00pm
+
+## 2020-04-23,3:00pm
 * Speaker: Jie Liu
 
 ## 2020-04-30,2:00pm
