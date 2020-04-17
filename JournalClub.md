@@ -45,7 +45,7 @@
 * Speaker: Jie Liu
 
 ## 2020-04-30,2:00pm
-* Speaker: Baizhen 
+* Speaker: Rui Li
 
 ## 2020-05-07,2:00pm
 * Speaker: Yiting
@@ -54,7 +54,7 @@
 * Speaker: Bairu
 
 ## 2020-05-21,2:00pm
-* Speaker: Rui Li
+* Speaker: Baizhen 
 
 ## 2020-05-23,2:00pm
 * Speaker: Peiyu 
