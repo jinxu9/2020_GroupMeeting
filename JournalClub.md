@@ -48,10 +48,10 @@
 * Speaker: Rui Li
 
 ## 2020-05-07,2:00pm
-* Speaker: Yiting
+* Speaker: Bairu
 
 ## 2020-05-14,2:00pm
-* Speaker: Bairu
+* Speaker: Yiting
 
 ## 2020-05-21,2:00pm
 * Speaker: Baizhen 
