@@ -22,8 +22,9 @@
 
 ## Evaluation for the First Place（￥1000 Award）:  
 
+* Variance from true age ( the smaller the better) 
 * Correlation between predict age to the true age( the higher the better) 
-*  Variance from true age ( the smaller the better) 
+
 
 
 
