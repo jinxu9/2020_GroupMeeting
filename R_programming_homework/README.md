@@ -12,9 +12,14 @@
 (It doesn't matter what's method you used. You can also guess randomly)
 
 
-## Deadline: May 28-2020
+## Deadline: 
+* Before 5pm, May 27-2020 
+* Submit your result to this folder 
+* Result includes only two columns( Sample Id  and predicted age) 
+* Result file should named with your name or userid 
+** Note:  If the result file you uploaded failed pass the read.table() in R, you also failed. 
 
-## Evaluation for the first place: 
+## Evaluation for the First Place（￥1000 Award）:  
 
 * Correlation between predict age to the true age( the higher the better) 
 *  Variance from true age ( the smaller the better) 
