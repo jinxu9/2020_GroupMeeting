@@ -9,7 +9,7 @@
 *  The age information was missing for part of the data. 
 *  Using the samples with age information to predict the age of the missing samples. 
 
-**  Note: It doesn't matter what's method you used. You can also guess randomly)
+**  Note: It doesn't matter what's method you will use. You can also guess randomly)
 
 
 ## Deadline: 
@@ -25,7 +25,8 @@
 * Variance from true age ( the smaller the better) 
 * Correlation between predict age to the true age( the higher the better) 
 
-
+## The winner will share his/her method and script show how it works on May-28-2020.
+* Anyone is possible to be the finnal winner, be prepared to share your method.
 
 
 
