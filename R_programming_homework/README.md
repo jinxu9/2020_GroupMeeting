@@ -9,7 +9,7 @@
 *  The age information was missing for part of the data. 
 *  Using the samples with age information to predict the age of the missing samples. 
 
-(It doesn't matter what's method you used. You can also guess randomly)
+**  Note: It doesn't matter what's method you used. You can also guess randomly)
 
 
 ## Deadline: 
@@ -17,7 +17,8 @@
 * Submit your result to this folder 
 * Result includes only two columns( Sample Id  and predicted age) 
 * Result file should named with your name or userid 
-** Note:  If the result file you uploaded failed pass the read.table() in R, you also failed. 
+
+** Note:  If the result file doesn't pass the read.table() in R, the file will be considered as invalid.  
 
 ## Evaluation for the First Place（￥1000 Award）:  
 
