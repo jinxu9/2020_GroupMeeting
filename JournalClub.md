@@ -43,6 +43,7 @@
 
 ## 2020-04-23,3:00pm
 * Speaker: Jie Liu
+* Title：Xia B, Yan Y, Baron M, et al. Widespread Transcriptional Scanning in the Testis Modulates Gene Evolution Rates. Cell. 2020;180(2):248–262.e21. doi:10.1016/j.cell.2019.12.015
 
 ## 2020-04-30,2:00pm
 * Speaker: Rui Li
