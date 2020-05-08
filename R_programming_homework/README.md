@@ -22,7 +22,7 @@
 
 ## Evaluation for the First Place（￥1000 Award）:  
 
-* Variance from true age ( the smaller the better) 
+* Deviation from true age ( the smaller the better) 
 * Correlation between predict age to the true age( the higher the better) 
 
 ## The winner will share his/her method and script show how it works on May-28-2020.
