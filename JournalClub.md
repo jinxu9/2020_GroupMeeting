@@ -40,18 +40,21 @@
 * Speaker: Siqi 
 * Title: Systematic analysis of chromatin interactions at disease associated loci links novel candidate genes to inflammatory bowel disease. Genome Biol. 2016 Nov 30;17(1):247.
 
-
 ## 2020-04-23,3:00pm
 * Speaker: Jie Liu
+* Widespread Transcriptional Scanning in the Testis Modulates Gene Evolution Rates Cell 180,248-262
 
 ## 2020-04-30,2:00pm
 * Speaker: Rui Li
+*  MorphoSeq: Full Single-Cell Transcriptome Dynamics Up to Gastrulation in a Chordate. Cell 181,1-14
 
 ## 2020-05-07,2:00pm
 * Speaker: Bairu
+* Title: Retrovirus-like Gag Protein Arc1 Binds RNA and Traffics across Synaptic Boutons. Cell 172,262-274
 
 ## 2020-05-14,2:00pm
-* Speaker: Yiting
+* Speaker: Ao Huang  （ 黄翱）
+* Title: Genomic encoding of transcriptional burst kinetics. Nature 2019 https://doi.org/10.1038/s41586-018-0836-1
 
 ## 2020-05-21,2:00pm
 * Speaker: Baizhen 
@@ -71,6 +74,7 @@
 ## 2020-06-25,2:00pm
 * Speaker: Siqi 
 
-
+## 2020-07-02,2:00pm 
+* Speaker: Yiting 
 
 
