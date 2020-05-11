@@ -9,7 +9,7 @@
 *  The age information was missing for part of the data. 
 *  Using the samples with age information to predict the age of the missing samples. 
 
-**  Note: It doesn't matter what's method you will use. You can also guess randomly)
+**  Note: It doesn't matter what method you will use. You can also guess randomly)
 
 
 ## Deadline: 
