@@ -59,3 +59,10 @@ https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html
 ### Speaker: Peiyu
 * Chapter 8: RNA-seq analysis 
 * Chapter 9: ChIP-seq analysis 
+
+## Date 2020-05-28, 3:00pm
+
+### Speaker: unknow 
+
+* Announce the champagne for R_homework 
+* The winner will present the methodologies. 
