@@ -61,6 +61,7 @@
 
 ## 2020-05-28,2:00pm
 * Speaker: Peiyu 
+* Title: The gut-brain axis mediates sugar preference. Nature, 2020, 580(7804):1-6. 
 
 ## 2020-06-04,2:00pm
 * Speaker: Yage 
