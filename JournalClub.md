@@ -65,6 +65,7 @@
 
 ## 2020-06-04,2:00pm
 * Speaker: Yage 
+* Title: Molecular Choreography of Acute Exercise. Cell. 2020;181(5):1112‐1130.e16. 
 
 ## 2020-06-11,2:00pm
 * Speaker: Jiawen 
