@@ -57,7 +57,8 @@
 * Title: Genomic encoding of transcriptional burst kinetics. Nature 2019 https://doi.org/10.1038/s41586-018-0836-1
 
 ## 2020-05-21,2:00pm
-* Speaker: Baizhen 
+* Speaker: Baizhen
+* Title: Snake Venom Gland Organoids. Cell. Post, Y., et al. 2020. 180(2): p. 233-247.e21.
 
 ## 2020-05-28,2:00pm
 * Speaker: Peiyu 
