@@ -70,6 +70,7 @@
 
 ## 2020-06-11,2:00pm
 * Speaker: Jiawen 
+* Title : Three-dimensional genome structures of single sensory neurons in mouse visual and olfactory systems
 
 ## 2020-06-18,2:00pm
 * Speaker: Zihao 
