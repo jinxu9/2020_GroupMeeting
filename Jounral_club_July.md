@@ -46,7 +46,7 @@
 * National Holiday 
 
 ## 2020-10-08, 2pm
-* Speaker:
+* Speaker:yangjw
 * Title:
 
 ## 2020-10-15, 2pm
