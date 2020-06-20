@@ -19,11 +19,11 @@
 * Title:
 
 ## 2020-08-20, 2pm
-* Speaker:
+* Speaker: Jie Liu
 * Title:
 
 ## 2020-08-27, 2pm
-* Speaker:
+* Speaker: Rui Li
 * Title:
 
 ## 2020-09-03, 2pm
@@ -35,11 +35,11 @@
 * Title:
 
 ## 2020-09-17, 2pm
-* Speaker:
+* Speaker:Chenzh
 * Title:
 
 ## 2020-09-24, 2pm
-* Speaker: Xuyc
+* Speaker: shipy
 * Title:
 
 ## 2020-10-01, 2pm
@@ -50,7 +50,7 @@
 * Title:
 
 ## 2020-10-15, 2pm
-* Speaker:
+* Speaker: nieyg
 * Title:
 
 ## 2020-10-22, 2pm
