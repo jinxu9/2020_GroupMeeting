@@ -1,3 +1,18 @@
+# Schedule for Xu lab Group Meeting ( 2020-07-06--2020-12)
+## Part1: Journal club
+* Please send out selected paper and add the title to Github before each Tuesday. 
+
+## Best Jounral Presentation Awards ( ¥1000 )  
+   * The value of the paper itself( novelty, significants, interests and etc.)
+   * Well prepared( slides, speaking, timing) 
+   * Clearly explain the story 
+   * Deep discussion lead by the presenter
+
+## Part2: Case studies and practice
+* To be added
+
+
+
 # Schedule for Xu lab Group Meeting (2020-04-23 -- 2020-05-21) 
 
 ## Part1: Journal club 
@@ -9,8 +24,4 @@
   * Q & A 
   * Discussion 
 
-# Best Jounral Presentation Awards ( ¥1000 )  
-   * The value of the paper itself( novelty, significants, interests and etc.)
-   * Well prepared( slides, speaking, timing) 
-   * Clearly explain the story 
-   * Deep discussion lead by the presenter
+
