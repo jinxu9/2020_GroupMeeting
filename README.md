@@ -8,9 +8,8 @@
    * Clearly explain the story 
    * Deep discussion lead by the presenter
 
-## Part2: Case studies and practice
-* To be added
-
+## Part2: Learning by Topic
+* Please see the LearningByTopic for details 
 
 
 # Schedule for Xu lab Group Meeting (2020-04-23 -- 2020-05-21) 
