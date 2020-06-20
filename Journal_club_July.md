@@ -54,7 +54,7 @@
 * Title:
 
 ## 2020-10-22, 2pm
-* Speaker:
+* Speaker:Zhongyt
 * Title:
 
 ## 2020-10-29, 2pm
