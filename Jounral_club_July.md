@@ -11,7 +11,7 @@
 * Title:
 
 ## 2020-08-06, 2pm
-* Speaker:
+* Speaker: Huang Ao
 * Title:
 
 ## 2020-08-13, 2pm
