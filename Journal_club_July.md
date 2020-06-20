@@ -39,7 +39,7 @@
 * Title:
 
 ## 2020-09-24, 2pm
-* Speaker:shipy
+* Speaker: shipy
 * Title:
 
 ## 2020-10-01, 2pm
@@ -50,7 +50,7 @@
 * Title:
 
 ## 2020-10-15, 2pm
-* Speaker:nieyg
+* Speaker: nieyg
 * Title:
 
 ## 2020-10-22, 2pm
