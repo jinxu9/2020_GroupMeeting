@@ -8,8 +8,8 @@
    * Clearly explain the story 
    * Deep discussion lead by the presenter
 
-## Part2: Learning by Topic
-* Please see the LearningByTopic for details 
+## Part2: Introduction Statistics with R 
+* Please see details in the learning schedual 
 
 
 # Schedule for Xu lab Group Meeting (2020-04-23 -- 2020-05-21) 
