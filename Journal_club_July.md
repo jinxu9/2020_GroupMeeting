@@ -19,11 +19,11 @@
 * Title:
 
 ## 2020-08-20, 2pm
-* Speaker:
+* Speaker: Jie Liu
 * Title:
 
 ## 2020-08-27, 2pm
-* Speaker:
+* Speaker: Rui Li
 * Title:
 
 ## 2020-09-03, 2pm
