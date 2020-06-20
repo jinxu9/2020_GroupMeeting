@@ -15,7 +15,7 @@
 * Title:
 
 ## 2020-08-13, 2pm
-* Speaker:
+* Speaker: Baizhen
 * Title:
 
 ## 2020-08-20, 2pm
