@@ -35,7 +35,7 @@
 * Title:
 
 ## 2020-09-17, 2pm
-* Speaker:
+* Speaker:Chenzh
 * Title:
 
 ## 2020-09-24, 2pm

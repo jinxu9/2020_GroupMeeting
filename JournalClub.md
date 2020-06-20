@@ -74,7 +74,7 @@
 
 ## 2020-06-18,2:00pm
 * Speaker: Zihao 
-* Title: Single-cell analysis of murine fibroblasts identifies neonatal to adult switching that regulates cardiomyocyte maturation
+* Title: Single-cell analysis of murine fibroblasts identifies neonatal to adult switching that regulates cardiomyocyte maturation. NATURE COMMUNICATIONS | (2020) 11:2585
 
 
 ## 2020-06-25,2:00pm
