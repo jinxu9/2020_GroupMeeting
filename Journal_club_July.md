@@ -39,7 +39,7 @@
 * Title:
 
 ## 2020-09-24, 2pm
-* Speaker:
+* Speaker: Xuyc
 * Title:
 
 ## 2020-10-01, 2pm
