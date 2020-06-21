@@ -27,8 +27,9 @@
 * Title:
 
 ## 2020-09-03, 2pm
+
 * Speaker: Xuyc
-* Title:
+* Title: 
 
 ## 2020-09-10, 2pm
 * Speaker:Pengsq
@@ -54,9 +55,9 @@
 * Title:
 
 ## 2020-10-22, 2pm
-* Speaker:
+* Speaker:Zhongyt
 * Title:
 
 ## 2020-10-29, 2pm
-* Speaker:
+* Speaker: Zhongjie Tang
 * Title:
