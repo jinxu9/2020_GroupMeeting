@@ -27,7 +27,7 @@
 * Title:
 
 ## 2020-09-03, 2pm
-* Speaker:
+* Speaker: Tao Xu
 * Title:
 
 ## 2020-09-10, 2pm
@@ -58,5 +58,5 @@
 * Title:
 
 ## 2020-10-29, 2pm
-* Speaker:
+* Speaker: Zhongjie Tang
 * Title:
