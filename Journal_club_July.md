@@ -7,7 +7,7 @@
 * Title:
 
 ## 2020-07-30, 2pm
-* Speaker:
+* Speaker: Tao Xu
 * Title:
 
 ## 2020-08-06, 2pm
@@ -27,7 +27,7 @@
 * Title:
 
 ## 2020-09-03, 2pm
-* Speaker: Tao Xu
+* Speaker: 
 * Title:
 
 ## 2020-09-10, 2pm
