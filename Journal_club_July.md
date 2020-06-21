@@ -27,7 +27,7 @@
 * Title:
 
 ## 2020-09-03, 2pm
-* Speaker: 
+* Speaker: Xuyc
 * Title:
 
 ## 2020-09-10, 2pm
