@@ -3,7 +3,7 @@
 * Title:
 
 ## 2020-07-23, 2pm
-* Speaker:
+* Speaker: Weixing
 * Title:
 
 ## 2020-07-30, 2pm
