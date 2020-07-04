@@ -1,6 +1,6 @@
 ## 2020-07-16, 2pm
-* Speaker:
-* Title:
+* Speaker: Jin Xu 
+* Title: BRICseq Bridges Brain-wide Interregional Connectivity to Neural Activity and Gene Expression in Single Animals
 
 ## 2020-07-23, 2pm
 * Speaker: Weixing
