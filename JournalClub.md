@@ -82,6 +82,7 @@
 
 ## 2020-07-02,2:00pm 
 * Speaker: Siqi 
+* Title: Heterogenous Populations of Tissue-Resident CD8+ T Cells Are Generated in Response to Infection and Malignancy. Milner et al., 2020, Immunity 52, 808–824
 
 ## 2020-07-09,2:00pm
 * Speaker: Yiting 
