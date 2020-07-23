@@ -4,7 +4,8 @@
 
 ## 2020-07-23, 2pm
 * Speaker: Weixing
-* Title:
+* Title:  Suppression of GABAergic neurons through D2-like receptor secures efficient conditioning in Drosophila
+aversive olfactory learning
 
 ## 2020-07-30, 2pm
 * Speaker: Tao Xu
