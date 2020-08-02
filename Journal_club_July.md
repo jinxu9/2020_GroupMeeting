@@ -13,7 +13,7 @@ aversive olfactory learning
 
 ## 2020-08-06, 2pm
 * Speaker: Huang Ao
-* Title:
+* Title: Single-molecule imaging of transcription dynamics in somatic stem cells
 
 ## 2020-08-13, 2pm
 * Speaker: Baizhen
