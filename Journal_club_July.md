@@ -63,9 +63,13 @@ aversive olfactory learning
 * Title:
 
 ## 2020-11-5, 2pm
-* Speaker: Peiyu Shi
+* Speaker: Jiamiao Li
 * Title:
 
 ## 2020-11-12, 2pm
+* Speaker: Peiyu Shi 
+* Title:
+
+## 2020-11-19, 2pm
 * Speaker: Jiawen Yang
 * Title:
