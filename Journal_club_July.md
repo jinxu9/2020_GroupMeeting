@@ -17,7 +17,7 @@ aversive olfactory learning
 
 ## 2020-08-13, 2pm
 * Speaker: Baizhen
-* Title:
+* Title: Genomic landscape of lung adenocarcinomain East Asians
 
 ## 2020-08-20, 2pm
 * Speaker: Jie Liu
