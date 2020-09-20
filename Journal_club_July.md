@@ -25,7 +25,7 @@ aversive olfactory learning
 
 ## 2020-08-27, 2pm
 * Speaker: Rui Li
-* Title:
+* Title: In vivo simultaneous transcriptional activation of multiple genes in the brain using CRISPR–dCas9-activator transgenic mice
 
 ## 2020-09-03, 2pm
 * Speaker: Xuyc
