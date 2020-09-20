@@ -51,7 +51,7 @@ aversive olfactory learning
 * Title:
 
 ## 2020-10-15, 2pm
-* Speaker: nieyg
+* Speaker: Ruizhi Shen
 * Title:
 
 ## 2020-10-22, 2pm
@@ -72,4 +72,28 @@ aversive olfactory learning
 
 ## 2020-11-19, 2pm
 * Speaker: Jiawen Yang
+* Title:
+
+## 2020-11-26, 2pm
+* Speaker: Jianye Chang
+* Title:
+
+## 2020-12-3, 2pm
+* Speaker: Shuyang Xu
+* Title:
+
+## 2020-12-10, 2pm
+* Speaker: Yage Nie
+* Title:
+
+## 2020-12-17, 2pm
+* Speaker: 
+* Title:
+
+## 2020-12-24, 2pm
+* Speaker: 
+* Title:
+
+## 2020-12-31, 2pm
+* Speaker: 
 * Title:
