@@ -37,7 +37,7 @@ aversive olfactory learning
 
 ## 2020-09-17, 2pm
 * Speaker:Chenzh
-* Title:
+* Title:Single-cell reconstruction of the adult human heart during heart failure and recovery reveals the cellular landscape underlying cardiac function.  Nat Cell Biol, 2020 Jan.
 
 ## 2020-09-24, 2pm
 * Speaker: Sijun Li
