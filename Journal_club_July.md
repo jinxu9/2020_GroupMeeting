@@ -56,7 +56,7 @@ aversive olfactory learning
 
 ## 2020-10-22, 2pm
 * Speaker:Zhongyt
-* Title:
+* Title:Olfactory receptor and circuit evolution promote host specialization. Auer, T.O., Khallaf, M.A., Silbering, A.F. et al. Nature 579, 402–408 (2020). 
 
 ## 2020-10-29, 2pm
 * Speaker: Zhongjie Tang
