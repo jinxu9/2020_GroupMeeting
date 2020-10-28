@@ -54,46 +54,66 @@ aversive olfactory learning
 * Speaker: Ruizhi Shen
 * Title:
 
-## 2020-10-22, 2pm
+## 2020-10-22, 1:30pm
 * Speaker:Zhongyt
 * Title:Olfactory receptor and circuit evolution promote host specialization. Auer, T.O., Khallaf, M.A., Silbering, A.F. et al. Nature 579, 402–408 (2020). 
 
-## 2020-10-29, 2pm
+## 2020-10-29, 1:30pm
 * Speaker: Zhongjie Tang
 * Title:
 
-## 2020-11-5, 2pm
-* Speaker: Jiamiao Li
-* Title:
-
-## 2020-11-12, 2pm
-* Speaker: Peiyu Shi 
-* Title:
-
-## 2020-11-19, 2pm
-* Speaker: Jiawen Yang
-* Title:
-
-## 2020-11-26, 2pm
-* Speaker: Jianye Chang
-* Title:
-
-## 2020-12-3, 2pm
+## 2020-11-5, 1:30pm
 * Speaker: Shuyang Xu
 * Title:
 
-## 2020-12-10, 2pm
+## 2020-11-12, 1:30pm
+* Speaker: Peiyu Shi 
+* Title:
+
+## 2020-11-19, 1:30pm
+* Speaker: Jiawen Yang
+* Title:
+
+## 2020-11-26, 1:30pm
+* Speaker: Jianye Chang
+* Title:
+
+## 2020-12-3, 1:30pm
 * Speaker: Yage Nie
 * Title:
 
-## 2020-12-17, 2pm
+## 2020-12-10, 2pm
 * Speaker: 
 * Title:
 
-## 2020-12-24, 2pm
+## 2020-12-17, 1:30pm
 * Speaker: 
 * Title:
 
-## 2020-12-31, 2pm
+## 2020-12-24, 1:30pm
+* Speaker: 
+* Title:
+
+## 2020-12-31, 1:30pm
+* Speaker: 
+* Title:
+
+## 2021-1-7, 1:30pm
+* Speaker: 
+* Title:
+
+## 2021-1-14, 1:30pm
+* Speaker: 
+* Title:
+
+## 2021-1-21, 1:30pm
+* Speaker: 
+* Title:
+
+## 2021-1-28, 1:30pm
+* Speaker: 
+* Title:
+
+## 2021-2-4, 1:30pm
 * Speaker: 
 * Title:
