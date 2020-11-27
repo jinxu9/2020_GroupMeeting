@@ -1,4 +1,4 @@
-## 2020-12-10, 2pm
+## 2020-12-10, 1:30pm
 * Speaker: 
 * Title:
 
@@ -27,7 +27,7 @@
 * Title:
 
 ## 2021-1-28, 1:30pm
-* Speaker: 
+* Speaker: Pengsq
 * Title:
 
 ## 2021-2-4, 1:30pm
