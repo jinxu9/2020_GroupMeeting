@@ -7,8 +7,8 @@
 * Title:
 
 ## 2020-12-24, 1:30pm
-* Speaker: 
-* Title:
+* Speaker: Ao Huang
+* Title: 2020-Nature-DNA mismatches reveal conformational penalties in protein-DNA recognition
 
 ## 2020-12-31, 1:30pm
 * Speaker: 
