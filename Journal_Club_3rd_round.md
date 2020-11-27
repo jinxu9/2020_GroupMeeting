@@ -58,7 +58,7 @@
 * Title:
 
 ## 2021-4-1, 1:30pm
-* Speaker: 
+* Speaker: shipy
 * Title:
 
 ## 2021-4-8, 1:30pm
@@ -74,7 +74,7 @@
 * Title:
 
 ## 2021-4-29, 1:30pm
-* Speaker: 
+* Speaker: nieyg
 * Title:
 
 ## 2021-5-6, 1:30pm
