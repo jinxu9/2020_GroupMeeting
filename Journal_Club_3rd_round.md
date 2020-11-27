@@ -1,5 +1,5 @@
 ## 2020-12-10, 1:30pm
-* Speaker: 
+* Speaker: Zhongyt
 * Title:
 
 ## 2020-12-17, 1:30pm
