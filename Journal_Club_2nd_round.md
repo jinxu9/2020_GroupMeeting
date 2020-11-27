@@ -72,7 +72,7 @@ aversive olfactory learning
 
 ## 2020-11-19, 1:30pm
 * Speaker: Jiawen Yang
-* Title:
+* Title: Single-cell epigenomic analyses implicate candidate causal variants at inherited risk loci for Alzheimer’s and Parkinson’s diseases
 
 ## 2020-11-26, 1:30pm
 * Speaker: Jianye Chang
