@@ -3,7 +3,7 @@
 * Title:
 
 ## 2020-12-17, 1:30pm
-* Speaker: 
+* Speaker: CHZH
 * Title:
 
 ## 2020-12-24, 1:30pm
