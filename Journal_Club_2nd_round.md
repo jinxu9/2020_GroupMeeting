@@ -60,7 +60,7 @@ aversive olfactory learning
 
 ## 2020-10-29, 1:30pm
 * Speaker: Zhongjie Tang
-* Title:
+* Title: The nucleus measures shape changes for cellular proprioception to control dynamic cell behavior
 
 ## 2020-11-5, 1:30pm
 * Speaker: Shuyang Xu
