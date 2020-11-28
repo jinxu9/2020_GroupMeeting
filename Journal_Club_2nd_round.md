@@ -68,7 +68,7 @@ aversive olfactory learning
 
 ## 2020-11-12, 1:30pm
 * Speaker: Peiyu Shi 
-* Title:
+* Title: Microglia mediate forgetting via complement-dependent synaptic elimination. Wang, C. et al. Science 367, 688–694 (2020).
 
 ## 2020-11-19, 1:30pm
 * Speaker: Jiawen Yang
