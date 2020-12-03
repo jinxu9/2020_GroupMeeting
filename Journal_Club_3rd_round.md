@@ -19,11 +19,11 @@
 * Title:
 
 ## 2021-1-14, 1:30pm
-* Journal club Speaker: 
+* Journal club Speaker: Xushuy
 * Title:
 
 ## 2021-1-21, 1:30pm
-* Journal club Speaker: 
+* Journal club Speaker: Lijiam
 * Title:
 
 ## 2021-1-28, 1:30pm
