@@ -3,7 +3,7 @@
 * Title:
 
 ## 2020-12-17, 1:30pm
-* Speaker: CHZH
+* Speaker: 
 * Title:
 
 ## 2020-12-24, 1:30pm
@@ -70,7 +70,7 @@
 * Title:
 
 ## 2021-4-22, 1:30pm
-* Speaker: 
+* Speaker: CHZH
 * Title:
 
 ## 2021-4-29, 1:30pm
