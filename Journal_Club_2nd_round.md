@@ -9,7 +9,7 @@ aversive olfactory learning
 
 ## 2020-07-30, 2pm
 * Speaker: Tao Xu
-* Title:
+* Title:Widespread receptor-driven modulation in peripheral olfactory coding.
 
 ## 2020-08-06, 2pm
 * Speaker: Huang Ao
