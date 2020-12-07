@@ -29,7 +29,7 @@ aversive olfactory learning
 
 ## 2020-09-03, 2pm
 * Speaker: Xuyc
-* Title:
+* Title:In vivo simultaneous transcriptional activation of multiple genes in the brain using CRISPR–dCas9-activator transgenic mice.
 
 ## 2020-09-10, 2pm
 * Speaker:Pengsq
@@ -47,7 +47,7 @@ aversive olfactory learning
 * National Holiday 
 
 ## 2020-10-08, 2pm
-* Speaker: Bairu Li
+* Speaker: Bairu Liu
 * Title:
 
 ## 2020-10-15, 2pm
@@ -64,7 +64,7 @@ aversive olfactory learning
 
 ## 2020-11-5, 1:30pm
 * Speaker: Shuyang Xu
-* Title:
+* Title:The mouse Sry locus harbors a cryptic exon that is essential for male sex determination.
 
 ## 2020-11-12, 1:30pm
 * Speaker: Peiyu Shi 
@@ -80,6 +80,6 @@ aversive olfactory learning
 
 ## 2020-12-3, 1:30pm
 * Speaker: Yage Nie
-* Title:
+* Title:Transcriptome and translatome co-evolution in mammals.
 
 
