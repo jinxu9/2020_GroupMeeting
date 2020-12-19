@@ -9,7 +9,7 @@ aversive olfactory learning
 
 ## 2020-07-30, 2pm
 * Speaker: Tao Xu
-* Title:
+* Title:Widespread receptor-driven modulation in peripheral olfactory coding.
 
 ## 2020-08-06, 2pm
 * Speaker: Huang Ao
@@ -29,7 +29,7 @@ aversive olfactory learning
 
 ## 2020-09-03, 2pm
 * Speaker: Xuyc
-* Title:
+* Title:In vivo simultaneous transcriptional activation of multiple genes in the brain using CRISPR–dCas9-activator transgenic mice.
 
 ## 2020-09-10, 2pm
 * Speaker:Pengsq
@@ -47,7 +47,7 @@ aversive olfactory learning
 * National Holiday 
 
 ## 2020-10-08, 2pm
-* Speaker: Bairu Li
+* Speaker: Bairu Liu
 * Title:
 
 ## 2020-10-15, 2pm
@@ -60,15 +60,15 @@ aversive olfactory learning
 
 ## 2020-10-29, 1:30pm
 * Speaker: Zhongjie Tang
-* Title:
+* Title: The nucleus measures shape changes for cellular proprioception to control dynamic cell behavior
 
 ## 2020-11-5, 1:30pm
 * Speaker: Shuyang Xu
-* Title:
+* Title:The mouse Sry locus harbors a cryptic exon that is essential for male sex determination.
 
 ## 2020-11-12, 1:30pm
 * Speaker: Peiyu Shi 
-* Title:
+* Title: Microglia mediate forgetting via complement-dependent synaptic elimination. Wang, C. et al. Science 367, 688–694 (2020).
 
 ## 2020-11-19, 1:30pm
 * Speaker: Jiawen Yang
@@ -76,10 +76,10 @@ aversive olfactory learning
 
 ## 2020-11-26, 1:30pm
 * Speaker: Jianye Chang
-* Title:
+* Title:Single-cell genomics identifies cell type–specific molecular changes in autism.
 
 ## 2020-12-3, 1:30pm
 * Speaker: Yage Nie
-* Title:
+* Title:Transcriptome and translatome co-evolution in mammals.
 
 
