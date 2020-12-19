@@ -8,7 +8,7 @@
 
 ## 2020-12-24, 1:30pm
 * Speaker: Ao Huang
-* Title: 2020-Nature-DNA mismatches reveal conformational penalties in protein-DNA recognition
+* Title: 2020-Nature-Bidirectional perisomatic inhibitory plasticity of a _Fos_ neuronal network
 
 ## 2020-12-31, 1:30pm
 * Speaker: 
