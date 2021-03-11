@@ -45,8 +45,8 @@
 * Title:
 
 ## 2021-3-11, 1:30pm
-* Journal club Speaker: 
-* Title:
+* Journal club Speaker: Ao Huang 
+* Title: Structural and developmental principles of neuropil assembly in _C. elegans_
 
 ## 2021-3-18, 1:30pm
 * Journal club Speaker: 
