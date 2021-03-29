@@ -27,8 +27,8 @@
 * Title:
 
 ## 2021-1-28, 1:30pm
-* Journal club Speaker: Liubairu
-* Title:
+* Journal club Speaker: yangjw
+* Title: olfactory system in mouse(review)
 
 ## 2021-2-4,1:30pm
 * 年终总结会
